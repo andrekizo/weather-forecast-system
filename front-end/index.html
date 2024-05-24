@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Previsão</title>
+    <link rel="stylesheet" href="node_modules/ol/ol.css">
+    <link rel="stylesheet" href="style.css"> 
+
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+
+  </head>
+  <body>
+    <div id="app">
+      <h1>Previsão do Tempo</h1>
+      <input type="text" id="cidade" placeholder="Digite a cidade">
+      <button id="consultar">Consultar</button>
+      <select id="cidades-consultadas">
+          <option value="" selected>Cidades já consultadas</option>
+      </select>
+      <div id="informacoes"></div>
+  </div>
+    <div id="map" class="map"></div>
+    <div id="info" style="display: none;"></div>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
