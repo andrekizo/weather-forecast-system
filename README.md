@@ -1,5 +1,5 @@
 # weather-forecast-system
-Sistema de previsão de tempo de cidades, com mapa interativo
+Sistema de previsão de tempo de cidades, com mapa interativo.
 
 # Pré-requisito (Recomendado) 
 - Node >=18
