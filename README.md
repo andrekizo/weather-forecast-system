@@ -19,7 +19,7 @@ A Api REST deste sistema foi programada utilizando Node js com o framework Fasti
 Foi utilizado para o front-end do sistema html, css e javascript puros. Para exibição do mapa, foram utilizadas as bibliotecas OpenLayers e Vite.
 
 ## Instalando Bibliotecas
-Clone o repositório em uma pasta local, na raiz do projeto, rode os comandos
+Clone o repositório em uma pasta local, na raiz do projeto, rode os comandos:
 ```
 cd back-end
 npm install
